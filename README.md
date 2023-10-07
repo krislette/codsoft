@@ -1,5 +1,5 @@
 # Repository Information
-This repository hosts a curated collection of command-line interface (CLI) based programs in Python developed for CodSoft.
+This repository contains a set of source codes for user-friendly command-line programs written in Python, designed specifically for CodSoft.
 # Tasks
 1. To-do List
 2. Calculator
