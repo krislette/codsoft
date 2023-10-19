@@ -230,6 +230,7 @@ def print_choices(message):
 
 
 def print_contact_found():
+    """Prints a message if a contact is found."""
     print("\t\t-> Contact found <-")
     display_design()
 
@@ -262,7 +263,6 @@ def exit_program():
     display_design()
     print("----------------------- Exit ----------------------")
     display_design()
-
     print("Are you sure you want to exit the program?\n[1] Yes\n[2] No")
     display_design()
     user_answer = get_input(1, 2)
