@@ -8,3 +8,4 @@ This repository contains a set of source codes for user-friendly command-line in
 5. Contact Book
 # Additional Information
 Internship start date: October 01, 2023.
+Completed all tasks: October 19, 2023.
